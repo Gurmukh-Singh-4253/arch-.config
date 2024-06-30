@@ -1,0 +1,8 @@
+[Libinput][10248][262][FTCS0038:00 2808:0106 Mouse]
+NaturalScroll=false
+
+[Libinput][10248][262][FTCS0038:00 2808:0106 Touchpad]
+ClickMethod=2
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true

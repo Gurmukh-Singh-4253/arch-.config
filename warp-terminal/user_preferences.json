@@ -1,0 +1,12 @@
+{
+  "prefs": {
+    "TelemetryEnabled": "true",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "AIAssistantRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-07-30T05:12:48.447611Z\"}",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"}]",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "ExperimentId": "2347a74c-2db3-42e3-bd7d-8aaa27faf81d",
+    "AIRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-07-30T05:12:48.447611Z\"}",
+    "CrashReportingEnabled": "true"
+  }
+}

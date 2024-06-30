@@ -1,0 +1,6 @@
+[Added Associations]
+application/octet-stream=firefox.desktop;
+application/json=nvim.desktop;
+
+[Default Applications]
+application/json=nvim.desktop

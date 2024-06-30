@@ -1,0 +1,11 @@
+[ExtractDialog]
+2048x1280 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Games/,$HOME/Documents/chess5d/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled
